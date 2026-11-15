@@ -1,0 +1,5 @@
+Source: https://github.com/1h-barryy/2026-10-26_problem-solving-lab
+Commit: 6e1c96708e94e44eea10a6751f8e9e41e492c68e
+File: concepts.py
+Git blob SHA: 2249fd158bd5146ef45a7519e1ff5ddd1089dba1
+Copied unchanged for offline unit testing in this repository.
